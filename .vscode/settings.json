@@ -1,0 +1,8 @@
+{
+  "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+  "autoimport.absolute": true,
+  "php.suggest.basic": false,
+  "fontAwesomeAutocomplete.disableTriggerWordAutoClearPatterns": ["**/*.html"],
+  "fontAwesomeAutocomplete.version": "5",
+  "less.completion.completePropertyWithSemicolon": false
+}
